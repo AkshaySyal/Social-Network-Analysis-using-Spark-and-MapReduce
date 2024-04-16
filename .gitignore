@@ -1,0 +1,5 @@
+*.class
+*.log
+input/
+output/
+triangle_count_output/
